@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\antho\OneDrive\Escritorio\REPERTORIOS(GITHUB)\BlackJack(C++)\BlackJack\BlackJack1.h(78,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\antho\OneDrive\Escritorio\REPERTORIOS(GITHUB)\BlackJack(C++)\BlackJack\BlackJack1.h(151,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\antho\OneDrive\Escritorio\REPERTORIOS(GITHUB)\BlackJack(C++)\BlackJack\BlackJack1.h(171,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\antho\OneDrive\Escritorio\REPERTORIOS(GITHUB)\BlackJack(C++)\BlackJack\BlackJack1.h(191,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BlackJack.vcxproj -> C:\Users\antho\OneDrive\Escritorio\REPERTORIOS(GITHUB)\BlackJack(C++)\Debug\BlackJack.exe
